@@ -4,7 +4,8 @@
 Predicting and analyzing the reasons for customer churn in the telecommunications industry to help businesses retain customers and optimize their marketing strategies.
 
 # Customer Churn Analysis & Prediction for Proactive Retention
-![Churn Overview](IMAGES/Sales Metrics Whiteboard (1).png)
+![Sales Metrics Whiteboard](https://github.com/PhanPhan11/Customer-Churn-Analysis-Prediction/blob/main/Sales%20Metrics%20Whiteboard%20(1).png?raw=true)
+
 
 ## 1. Overview of Customer Churn Risk Characteristics
 
